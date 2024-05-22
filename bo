@@ -16,7 +16,7 @@
     canvas.height = window.innerHeight;
 
     const dogImage = new Image();
-    dogImage.src = "dog.png"; // Dog image URL
+    dogImage.src = "https://img-s1.onedio.com/id-6368f348f14c9b943918ca3b/rev-0/w-600/h-400/f-jpg/s-a4ae6b5be0b17edd73ba0c26cc10dfe859bf1810.jpg"; // Dog image URL
 
     let dogs = [];
     let score = 0;
